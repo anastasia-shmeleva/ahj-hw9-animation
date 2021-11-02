@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/onf8v2825qxsg1et?svg=true)](https://ci.appveyor.com/project/anastasia-shmeleva/ahj-hw9-animation)
